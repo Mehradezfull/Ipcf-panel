@@ -2,7 +2,7 @@ import { connect } from 'cloudflare:sockets';
 
 //حتما یویو آیدی تغییر بدید
 //https://www.uuidgenerator.net/
-let userID = 'f1a234f6-c946-4024-ba79-882f58c22727';
+let userID = '09201ce7-5ac8-4fa7-ab3e-aac67e827cc8';
 
 const ProxyIPs = [
 	'cdn.xn--b6gac.eu.org',
